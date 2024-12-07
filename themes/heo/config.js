@@ -69,7 +69,7 @@ const CONFIG = {
     {
       title_1: 'Surge',
       img_1: '/images/heo/Surge.webp',
-      color_1: '#4f36a2', 
+      color_1: '#ffffff', 
       title_2: 'tag',
       img_2: '/images/heo/tag.webp', 
       color_2: '#d71f07' 
@@ -77,7 +77,7 @@ const CONFIG = {
     {
       title_1: 'scrssr',
       img_1: '/images/heo/scrssr.webp',
-      color_1: '#ffffff',
+      color_1: '#4f36a2',
       title_2: 'Loon',
       img_2: '/images/heo/Loon.webp',
       color_2: '#ffffff'
@@ -88,14 +88,14 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'shadowrocket',
       img_2: '/images/heo/shadowrocket.webp',
-      color_2: '#02a67e'
+      color_2: '#ffffff'
     },
     {
       title_1: 'ChatGPT',
       img_1: '/images/heo/ChatGPT.webp',
-      color_1: '#ffffff',
+      color_1: '#02a67e',
       title_2: 'Clash',
-      img_2: '/images/heo/Clash2.webp',
+      img_2: '/images/heo/clash2.webp',
       color_2: '#ffffff'
     },
     {
