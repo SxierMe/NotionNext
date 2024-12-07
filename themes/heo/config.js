@@ -61,10 +61,10 @@ const CONFIG = {
     {
       title_1: 'ImmTelecom',
       img_1: '/images/heo/ImmTelecom.webp',
-      color_1: '#989bf8',
+      color_1: '#ffffff',
       title_2: 'Flower',
       img_2: '/images/heo/Flower.webp', 
-      color_2: '#f0f0f0'
+      color_2: '#ffffff'
     },
     {
       title_1: 'scrssr',
@@ -112,7 +112,7 @@ const CONFIG = {
       color_1: '#df5b40',
       title_2: 'Amy',
       img_2: '/images/heo/Amy.webp',
-      color_2: '#1f1f1f'
+      color_2: '#ffffff'
     }
   ],
 
