@@ -99,8 +99,8 @@ const CONFIG = {
       color_2: '#2c51db'
     },
     {
-      title_1: 'Surge',
-      img_1: '/images/heo/Surge.webp',
+      title_1: 'Bitz',
+      img_1: '/images/heo/Bitz.webp',
       color_1: '#f7cb4f',
       title_2: 'Dler',
       img_2: '/images/heo/Dler.webp',
