@@ -86,9 +86,9 @@ const CONFIG = {
       title_1: 'Nexitally',
       img_1: '/images/heo/Nexitally.webp',
       color_1: '#eb6840',
-      title_2: 'openai',
-      img_2: '/images/heo/openai.webp',
-      color_2: '#8f55ba'
+      title_2: 'ChatGPT',
+      img_2: '/images/heo/ChatGPT.webp',
+      color_2: '#02a67e'
     },
     {
       title_1: 'shadowrocket',
