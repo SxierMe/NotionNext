@@ -85,7 +85,7 @@ const CONFIG = {
     {
       title_1: 'Nexitally',
       img_1: '/images/heo/Nexitally.webp',
-      color_1: '#e9572b',
+      color_1: '#ffffff',
       title_2: 'ChatGPT',
       img_2: '/images/heo/ChatGPT.webp',
       color_2: '#02a67e'
@@ -104,7 +104,7 @@ const CONFIG = {
       color_1: '#f7cb4f',
       title_2: 'Dler',
       img_2: '/images/heo/Dler.webp',
-      color_2: '#e9572b'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Boslife',
