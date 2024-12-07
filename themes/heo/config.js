@@ -99,9 +99,9 @@ const CONFIG = {
       color_2: '#2c51db'
     },
     {
-      title_1: 'Bitz',
-      img_1: '/images/heo/Bitz.webp',
-      color_1: '#f7cb4f',
+      title_1: 'netfilx',
+      img_1: '/images/heo/netfilx.webp',
+      color_1: '#000000',
       title_2: 'Dler',
       img_2: '/images/heo/Dler.webp',
       color_2: '#ffffff'
