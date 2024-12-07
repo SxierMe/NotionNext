@@ -107,9 +107,9 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'Boslife',
-      img_1: '/images/heo/Boslife.webp',
-      color_1: '#df5b40',
+      title_1: 'quntumultx',
+      img_1: '/images/heo/quntumultx.webp',
+      color_1: '#1f295e',
       title_2: 'Amy',
       img_2: '/images/heo/Amy.webp',
       color_2: '#ffffff'
