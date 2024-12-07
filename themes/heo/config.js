@@ -93,7 +93,7 @@ const CONFIG = {
     {
       title_1: 'shadowrocket',
       img_1: '/images/heo/shadowrocket.webp',
-      color_1: '#f29e39',
+      color_1: '#ffffff',
       title_2: 'Clash',
       img_2: '/images/heo/Clash.webp',
       color_2: '#2c51db'
