@@ -59,23 +59,23 @@ const CONFIG = {
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
-      title_1: 'AfterEffect',
+      title_1: 'ImmTelecom',
       img_1: '/images/heo/ImmTelecom.webp',
       color_1: '#989bf8',
-      title_2: 'Sketch',
+      title_2: 'Flower',
       img_2: '/images/heo/Flower.webp', 
       color_2: '#f0f0f0'
     },
     {
-      title_1: 'Docker',
+      title_1: 'scrssr',
       img_1: '/images/heo/scrssr.webp',
       color_1: '#4f36a2', 
-      title_2: 'Photoshop',
+      title_2: 'tag',
       img_2: '/images/heo/tag.webp', 
       color_2: '#d71f07' 
     },
     {
-      title_1: 'FinalCutPro',
+      title_1: 'Surge',
       img_1: '/images/heo/Surge.webp',
       color_1: '#ffffff',
       title_2: 'Loon',
@@ -102,16 +102,16 @@ const CONFIG = {
       title_1: 'Surge',
       img_1: '/images/heo/Surge.webp',
       color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
+      title_2: 'Dler',
+      img_2: '/images/heo/Dler.webp',
       color_2: '#e9572b'
     },
     {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      title_1: 'Boslife',
+      img_1: '/images/heo/Boslife.webp',
       color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      title_2: 'Amy',
+      img_2: '/images/heo/Amy.webp',
       color_2: '#1f1f1f'
     }
   ],
