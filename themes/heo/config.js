@@ -67,16 +67,16 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'scrssr',
-      img_1: '/images/heo/scrssr.webp',
+      title_1: 'Surge',
+      img_1: '/images/heo/Surge.webp',
       color_1: '#4f36a2', 
       title_2: 'tag',
       img_2: '/images/heo/tag.webp', 
       color_2: '#d71f07' 
     },
     {
-      title_1: 'Surge',
-      img_1: '/images/heo/Surge.webp',
+      title_1: 'scrssr',
+      img_1: '/images/heo/scrssr.webp',
       color_1: '#ffffff',
       title_2: 'Loon',
       img_2: '/images/heo/Loon.webp',
@@ -86,17 +86,17 @@ const CONFIG = {
       title_1: 'Nexitally',
       img_1: '/images/heo/Nexitally.webp',
       color_1: '#ffffff',
-      title_2: 'ChatGPT',
-      img_2: '/images/heo/ChatGPT.webp',
+      title_2: 'shadowrocket',
+      img_2: '/images/heo/shadowrocket.webp',
       color_2: '#02a67e'
     },
     {
-      title_1: 'shadowrocket',
-      img_1: '/images/heo/shadowrocket.webp',
+      title_1: 'ChatGPT',
+      img_1: '/images/heo/ChatGPT.webp',
       color_1: '#ffffff',
       title_2: 'Clash',
-      img_2: '/images/heo/Clash.webp',
-      color_2: '#2c51db'
+      img_2: '/images/heo/Clash2.webp',
+      color_2: '#ffffff'
     },
     {
       title_1: 'netfilx',
