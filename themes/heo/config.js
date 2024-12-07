@@ -99,12 +99,13 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'netfilx',
-      img_1: '/images/heo/netfilx.webp',
-      color_1: '#000000',
-      title_2: 'Dler',
-      img_2: '/images/heo/Dler.webp',
-      color_2: '#ffffff'
+      title_1: 'Dler',
+      img_1: '/images/heo/Dler.webp',
+      color_1: '#ffffff'
+      title_2: 'netfilx',
+      img_2: '/images/heo/netfilx.webp',
+      color_2: '#000000',
+
     },
     {
       title_1: 'quntumultx',
